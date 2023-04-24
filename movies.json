@@ -1,0 +1,50 @@
+[
+   {
+      "title":"Big Buck Bunny",
+      "description":"Three rodents amuse themselves by harassing creatures of the forest. However, when they mess with a bunny, he decides to teach them a lesson.",
+      "videoUrl":"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+      "thumbnailUrl":"https://upload.wikimedia.org/wikipedia/commons/7/70/Big.Buck.Bunny.-.Opening.Screen.png",
+      "genre":"Comedy",
+      "duration":"10 minutes"
+   },
+   {
+      "title":"Sintel",
+      "description":"A lonely young woman, Sintel, helps and befriends a dragon, whom she calls Scales. But when he is kidnapped by an adult dragon, Sintel decides to embark on a dangerous quest to find her lost friend Scales.",
+      "videoUrl":"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4",
+      "thumbnailUrl":"http://uhdtv.io/wp-content/uploads/2020/10/Sintel-3.jpg",
+      "genre":"Adventure",
+      "duration":"15 minutes"
+   },
+   {
+      "title":"Tears of Steel",
+      "description":"In an apocalyptic future, a group of soldiers and scientists takes refuge in Amsterdam to try to stop an army of robots that threatens the planet.",
+      "videoUrl":"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
+      "thumbnailUrl":"https://mango.blender.org/wp-content/uploads/2013/05/01_thom_celia_bridge.jpg",
+      "genre":"Action",
+      "duration":"12 minutes"
+   },
+   {
+      "title":"Elephant's Dream",
+      "description":"Friends Proog and Emo journey inside the folds of a seemingly infinite Machine, exploring the dark and twisted complex of wires, gears, and cogs, until a moment of conflict negates all their assumptions.",
+      "videoUrl":"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+      "thumbnailUrl":"https://download.blender.org/ED/cover.jpg",
+      "genre":"Sci-Fi",
+      "duration":"15 minutes"
+   },
+   {
+      "title":"Ant-Man and The Wasp: Quantumania",
+      "description":"Trailer for Ant-Man and the Wasp: Quantumania, starring Paul Rudd, Evangeline Lilly, Jonathan Majors, Kathryn Newton and Randall Park. Ant-Man and the Wasp battle Kang the Conqueror in the quantum realm.",
+      "videoUrl":"https://res.cloudinary.com/dd64qgfcx/video/upload/v1682127392/netflix-clone/Ant-Man_and_the_Wasp-_Quantumania_Trailer_2023_pxqwgy.mp4",
+      "thumbnailUrl":"https://res.cloudinary.com/dd64qgfcx/image/upload/v1682127348/netflix-clone/quantumania-poster_bv2ftz.jpg",
+      "genre":"Sci-Fi",
+      "duration":"2 minutes"
+   },
+   {
+      "title":"The Curious Case of Benjamin Button",
+      "description":"I was born under unusual circumstances. And so begins Benjamin Button, adapted from the classic 1920s story by F. Scott Fitzgerald about a man who is born in his eighties and ages backwards. A man, like any of us, unable to stop time. We follow his story set in New Orleans from the end of World War I in 1918, into the twenty-first century, following his journey that is as unusual as any man's life can be. Directed by David Fincher and starring Brad Pitt and Cate Blanchett with Tilda Swinton, Taraji P. Henson, Jason Flemyng, Elias Koteas and Julia Ormond, Benjamin Button, is a time traveler's tale of the people and places he bumps into along the way, the loves he loses and finds, the joys of life and the sadness of death, and what lasts beyond time.",
+      "videoUrl":"https://res.cloudinary.com/dd64qgfcx/video/upload/v1682127206/netflix-clone/The_Curious_Case_of_Benjamin_Button_Trailer_2008_ybmtqa.mp4",
+      "thumbnailUrl":"https://res.cloudinary.com/dd64qgfcx/image/upload/v1682127209/netflix-clone/benjaminbutton-3_t8t6gz.jpg",
+      "genre":"Drama",
+      "duration":"2 minutes"
+   }
+]
