@@ -16,7 +16,7 @@ export async function getServerSideProps(context: NextPageContext) {
   if (!session) {
     return {
       redirect: {
-        destination: '/auth',
+        destination: 'https://alura-netflix-lime.vercel.app/auth',
         permanent: false,
       }
     }
