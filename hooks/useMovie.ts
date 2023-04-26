@@ -2,7 +2,7 @@ import useSwr from 'swr'
 import fetcher from '@/libs/fetcher';
 
 const useMovie = (id?: string) => {
-  const { data, error, isLoading } = useSwr(id ? `https://alura-netflix-lime.vercel.app/movies/${id}` : null, fetcher, {
+  const { data, error, isLoading } = useSwr(id ? `https://alura-netflix-lime.vercel.app/api/movies/${id}` : null, fetcher, {
     revalidateIfStale: false,
     revalidateOnFocus: false,
     revalidateOnReconnect: false,

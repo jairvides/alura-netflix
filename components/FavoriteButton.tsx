@@ -26,7 +26,7 @@ const FavoriteButton: React.FC<FavoriteButtonProps> = ({ movieId }) => {
     if (isFavorite) {
       response = await axios.delete('https://alura-netflix-lime.vercel.app/api/favorite', { data: { movieId } });
     } else {
-      response = await axios.post('https://alura-netflix-lime.vercel.app/favorite', { movieId });
+      response = await axios.post('https://alura-netflix-lime.vercel.app/api/favorite', { movieId });
     }
 
     const updatedFavoriteIds = response?.data?.favoriteIds;

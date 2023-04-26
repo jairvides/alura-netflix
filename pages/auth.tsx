@@ -55,7 +55,7 @@ const Auth = () => {
 
   const register = useCallback(async () => {
     try {
-      await axios.post('https://alura-netflix-lime.vercel.app/register', {
+      await axios.post('https://alura-netflix-lime.vercel.app/api/register', {
         email,
         name,
         password
