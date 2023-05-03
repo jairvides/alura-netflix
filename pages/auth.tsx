@@ -44,7 +44,7 @@ const Auth = () => {
         email,
         password,
         redirect: false,
-        callbackUrl: 'https://alura-netflix-lime.vercel.app/'
+        callbackUrl: 'https://alura-netflix-lime.vercel.app/auth/credentials'
       });
 
       router.push('https://alura-netflix-lime.vercel.app/profiles');
