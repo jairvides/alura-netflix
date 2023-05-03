@@ -22,7 +22,7 @@ export async function getServerSideProps(context: NextPageContext) {
   if (!session) {
     return {
       redirect: {
-        destination: '/auth',
+        destination: 'https://alura-netflix-lime.vercel.app/auth',
         permanent: false,
       }
     }
@@ -51,7 +51,7 @@ const App = () => {
   const { data: currentUser } = useCurrentUser();
 
   const selectProfile = useCallback(() => {
-    router.push('/');
+    router.push('https://alura-netflix-lime.vercel.app/');
   }, [router]);
 
   return (

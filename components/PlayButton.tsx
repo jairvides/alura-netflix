@@ -11,7 +11,7 @@ const PlayButton: React.FC<PlayButtonProps> = ({ movieId }) => {
 
   return (
     <button 
-      onClick={() => router.push(`/watch/${movieId}`)}
+      onClick={() => router.push(`https://alura-netflix-lime.vercel.app/watch/${movieId}`)}
       className="
         bg-white 
         rounded-md 
